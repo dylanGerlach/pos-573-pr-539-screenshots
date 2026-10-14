@@ -1,0 +1,5 @@
+01-typed-display-name.png https://pub-0dd9a4510708464fb220409862f243a9.r2.dev/pos-573/01-typed-display-name.png
+02-persisted-after-reload.png https://pub-0dd9a4510708464fb220409862f243a9.r2.dev/pos-573/02-persisted-after-reload.png
+03-hosted-display-name.png https://pub-0dd9a4510708464fb220409862f243a9.r2.dev/pos-573/03-hosted-display-name.png
+04-hosted-catalog-name-heading.png https://pub-0dd9a4510708464fb220409862f243a9.r2.dev/pos-573/04-hosted-catalog-name-heading.png
+05-hosted-catalog-name.png https://pub-0dd9a4510708464fb220409862f243a9.r2.dev/pos-573/05-hosted-catalog-name.png
